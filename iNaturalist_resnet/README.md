@@ -68,3 +68,11 @@ python iNaturalist-resnet.py --test --data /home/huzhikun/DataSet/iNaturalist201
   year={2016}
 }
 ```
+Credits 
+=======
++Thanks to everyone who directly contributed to this:
+  
+- Steve Deng
+- Bill Lee
+- Xuyang Wang
+- Zhikun Hu
