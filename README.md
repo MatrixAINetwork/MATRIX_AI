@@ -44,3 +44,4 @@
 
 ##### Upgradable and Safe VM
 
+- Go on with the development of "Patched Contract", and go through code structures based on step-by-step debugging;
