@@ -45,3 +45,7 @@
 ##### Upgradable and Safe VM
 
 - Go on with the development of "Patched Contract", and go through code structures based on step-by-step debugging;
+
+- Completed the development work of Transaction Function Recognition, and extended on the map data structure in statedb;
+
+- Determined the implementation plan of patch permission authentication mechanism, focusing on the authentication scheme based on account address;
