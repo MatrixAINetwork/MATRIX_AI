@@ -49,3 +49,5 @@
 - Completed the development work of Transaction Function Recognition, and extended on the map data structure in statedb;
 
 - Determined the implementation plan of patch permission authentication mechanism, focusing on the authentication scheme based on account address;
+
+- Conducted research on contract upgrade, existing technology roadmap of patches, as well as coding design patterns;
