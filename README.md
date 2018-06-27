@@ -51,3 +51,5 @@
 - Determined the implementation plan of patch permission authentication mechanism, focusing on the authentication scheme based on account address;
 
 - Conducted research on contract upgrade, existing technology roadmap of patches, as well as coding design patterns;
+
+- Built up a private chain for testing purpose, and completed the application of contract patches on the private chain
