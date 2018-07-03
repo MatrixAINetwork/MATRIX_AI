@@ -59,3 +59,14 @@
 
 ##### Semantic Computing
 
+- Completed the automatic framework of Semantic Computing, including characteristics extraction, model training and clustering;
+
+- Complated the crawling and preparation of datasets;
+
+- Optimized the training process to the GAlib-based semantic computing model, and completed the fitting training of contract code dataset for the  model parameters;
+
+- Completed the code similarity calculation algorithm based on Bipartie Matching algorithm;
+
+- Completed the premilinary real contract data semantics clustering with not so ideal results; result analysis and extended experiments are in progress;
+
+- Discussed together on the plan of framework optimization 
