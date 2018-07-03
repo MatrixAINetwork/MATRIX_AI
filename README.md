@@ -1,6 +1,6 @@
 ### WEEKLY UPDATES on MATRIX SMARTCONTRACT PROJECT
 
-11th June - 15th June, 2018
+## 11th June - 15th June, 2018
 
 ##### Semantic Computing
 
@@ -29,7 +29,7 @@
 - Completed a demo version of "Patched Contract" on VM side against BEC/SMT overflow vulnerbility.
 
 
-18th June - 22th June, 2018
+## 18th June - 22th June, 2018
 
 ##### Semantic Computing
 
@@ -53,3 +53,9 @@
 - Conducted research on contract upgrade, existing technology roadmap of patches, as well as coding design patterns;
 
 - Built up a private chain for testing purpose, and completed the application of contract patches on the private chain
+
+
+## 25th June - 29th June, 2018
+
+##### Semantic Computing
+
