@@ -77,4 +77,4 @@
 - Go on with the development of "Patched Contract", refactor the code implementations under Core package; go through code structures based on step-by-step debugging;
 - Implement refactoring and optimizations on VM codes deployed and upgraded on private chain;
 - Read through go-ethereum API documetns and principles, as well as web3 related documents;
-- 
+- Get down with technical proposal design on upgradable contract and VM
