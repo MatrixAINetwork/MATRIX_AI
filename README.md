@@ -74,4 +74,5 @@
 ##### Upgradable and Safe VM
 
 - Research and discuss on contract upgrade plans and come out with a report; discuss on limitations and application scenarios of each upgrade plan;
-- Go on with the development of "Patched Contract", restructure the code implementations under Core package; go through code structures based on step-by-step debugging;
+- Go on with the development of "Patched Contract", refactor the code implementations under Core package; go through code structures based on step-by-step debugging;
+- Implement code refactoring and optimizations on upgradable VM code deployed on private chain;
