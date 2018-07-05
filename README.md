@@ -70,3 +70,5 @@
 - Completed the premilinary real contract data semantics clustering with not so ideal results; result analysis and extended experiments are in progress;
 
 - Discussed together on the plan of framework optimization 
+
+##### Upgradable and Safe VM
