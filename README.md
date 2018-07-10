@@ -85,3 +85,5 @@
 ##### Semantic Computing
 
 - Completed the semantics analysis on the current token based or walled based contract, and summarized several typical application scenarios;
+
+- Completed design on automatically generated interaction scenarios by smart contracts;
