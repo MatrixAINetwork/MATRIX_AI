@@ -81,3 +81,7 @@
 
 
 ## 3rd July - 7th July, 2018
+
+##### Semantic Computing
+
+- Completed the semantics analysis on the current token based or walled based contract, and summarized several typical application scenarios;
