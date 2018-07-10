@@ -78,3 +78,6 @@
 - Implement refactoring and optimizations on VM codes deployed and upgraded on private chain;
 - Read through go-ethereum API documetns and principles, as well as web3 related documents;
 - Get down with technical proposal design on upgradable contract and VM
+
+
+## 3rd July - 7th July, 2018
