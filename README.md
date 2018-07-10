@@ -89,3 +89,5 @@
 - Completed design on automatically generated interaction scenarios by smart contracts;
 
 - Completed the framework implementation of cluster based smartcontract semantics computing tools;
+
+- Achieved the optimized extraction of semantic information, and completed the automatic training of weighting parameter based on GAlib;
