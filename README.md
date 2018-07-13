@@ -95,3 +95,5 @@
 ##### Upgradable and Safe VM
 
 - Discuss and research on the design scheme of Fault Tolerance system, analysing the practicability from the perspectives of technology and application of this proposal
+
+- Go on with the development of "Patched Contract" supporting VM, and completed the optimized implementation of the PC address redirecting;
