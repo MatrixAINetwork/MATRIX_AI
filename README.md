@@ -91,3 +91,7 @@
 - Completed the framework implementation of cluster based smartcontract semantics computing tools;
 
 - Achieved the optimized extraction of semantic information, and completed the automatic training of weighting parameter based on GAlib;
+
+##### Upgradable and Safe VM
+
+- Discuss and research on the design scheme of Fault Tolerance system, analysing the practicability from the perspectives of technology and application of this proposal
