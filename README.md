@@ -99,3 +99,7 @@
 - Go on with the development of "Patched Contract" supporting VM, and completed the optimized implementation of the PC address redirecting;
 
 - Regarding the security vulnerability prediction engine related work, we focused on the taint analysis technology, and analyzed the feasibility of this technology at the virtual machine level;
+
+- Completed the merge of open-source taint analysis and patching;
+
+- Performed testing and debugging on security vulnerability prediction functions in private test-net.
