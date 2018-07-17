@@ -103,3 +103,8 @@
 - Completed the merge of open-source taint analysis and patching;
 
 - Performed testing and debugging on security vulnerability prediction functions in private test-net.
+
+
+## 9rd July - 13rd July, 2018
+
+##### Semantic Computing
