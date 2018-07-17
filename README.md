@@ -114,3 +114,5 @@
 
 - Frontend & background design and development in progress as regards smartcontract auto-generated prototype application scenarios 
 
+- Further research on existing contracts, and refine the feature classification and induction of application scenarios
+
