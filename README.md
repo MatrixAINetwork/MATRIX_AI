@@ -119,3 +119,8 @@
 
 - Completed the semantic extraction optimization plan of automatic contract semantics clustering tools, inlucding the optimization of original semantic vectors, computing models, etc;
 
+- Completed the extention of dataset for evaluation and preparation of dataset; fine-tuned the parameters of automatic semantic clustering model;
+
+完成 评测数据集 评测数据集 评测数据集 的扩大和数据准备 的扩大和数据准备 的扩大和数据准备 的扩大和数据准备 ，对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优 对自动化语义聚类模型进行参数调优
+6. 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估 正在进行完备测试集上的聚类效果评估
+可
