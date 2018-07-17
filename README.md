@@ -116,3 +116,6 @@
 
 - Further research on existing contracts, and refine the feature classification and induction of application scenarios
 
+
+- Completed the semantic extraction optimization plan of automatic contract semantics clustering tools, inlucding the optimization of original semantic vectors, computing models, etc;
+
