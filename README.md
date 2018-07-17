@@ -108,3 +108,9 @@
 ## 9rd July - 13rd July, 2018
 
 ##### Semantic Computing
+
+
+- Completed the design refination of the interactive scenarios generated automatically by smartcontracts, and finalized the prototype in form of web service, through different discussions;
+
+- Frontend & background design and development in progress as regards smartcontract auto-generated prototype application scenarios 
+
