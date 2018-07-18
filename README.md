@@ -122,3 +122,6 @@
 - Completed the extention of dataset for evaluation and preparation of dataset; fine-tuned the parameters of automatic semantic clustering model;
 
 - Evaluating the effects of clustering based on full datasets.
+
+
+##### Upgradable and Safe VM
