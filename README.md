@@ -133,3 +133,5 @@
 - Completed the structural design and module separation of smartcontract fault-tolerant VM, after several times of disscussion
 
 - Prototype development in progress for fault-tolerant features of  smartcontracts
+
+- Go on with the development and improvement of upgrades of safe contracts
