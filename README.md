@@ -126,8 +126,10 @@
 
 ##### Upgradable and Safe VM
 
-Discussed on SmartContract VMs, and proposed three core features and competencie: fault-tolerant virtual machine, vulnerability inference engine, secure contract upgrade；
+- Discussed on SmartContract VMs, and proposed three core features and competencie: fault-tolerant virtual machine, vulnerability inference engine, secure contract upgrade；
 
-Finished research on the design proposals of error-recovery, self-healing, immune software system, and came out with formal documents;
+- Finished research on the design proposals of error-recovery, self-healing, immune software system, and came out with formal documents;
 
-Completed the structural design and module separation of smartcontract fault-tolerant VM, after several times of disscussion
+- Completed the structural design and module separation of smartcontract fault-tolerant VM, after several times of disscussion
+
+- Prototype development in progress for fault-tolerant features of  smartcontracts
