@@ -126,5 +126,4 @@
 
 ##### Upgradable and Safe VM
 
-
-
+Discussed on SmartContract VMs, and proposed three core features and competencie: fault-tolerant virtual machine, vulnerability inference engine, secure contract upgrade；
