@@ -135,3 +135,11 @@
 - Prototype development in progress for fault-tolerant features of  smartcontracts
 
 - Go on with the development and improvement of upgrades of safe contracts
+
+
+## 16th July - 20th July, 2018
+
+##### Semantic Computing
+
+- Completed the detailed design of One-click DApp auto-generation functions
+
