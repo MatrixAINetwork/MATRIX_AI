@@ -145,4 +145,6 @@
 
 - Completed the high-level analysis of functions and application scenarios as regards the Token contracts;
 
-- As regards the Token contract, we achieved a configurable command line version of automatic contract generation, and it was successfully built
+- As regards the Token contract, we achieved a configurable command line version of automatic contract generation, and it was successfully built;
+
+- Interactive system for automatic contract generation is now in design
