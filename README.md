@@ -144,3 +144,5 @@
 - Completed the detailed design of One-click DApp auto-generation functions;
 
 - Completed the high-level analysis of functions and application scenarios as regards the Token contracts;
+
+- As regards the Token contract, we achieved a configurable command line version of automatic contract generation, and it was successfully built
