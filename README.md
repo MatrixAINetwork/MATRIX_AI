@@ -148,3 +148,7 @@
 - As regards the Token contract, we achieved a configurable command line version of automatic contract generation, and it was successfully built;
 
 - Interactive system for automatic contract generation is now in design
+
+- Carried out the feature analysis on the typical contract scenarios, with Wallet contracts, CrowdSale contracts as the starting point;
+
+- Completed the premilinary result collection of extended evaluation datasets, and is doing the result analysis now.
