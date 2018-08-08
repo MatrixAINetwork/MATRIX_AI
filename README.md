@@ -152,3 +152,7 @@
 - Carried out the feature analysis on the typical contract scenarios, with Wallet contracts, CrowdSale contracts as the starting point;
 
 - Completed the premilinary result collection of extended evaluation datasets, and is doing the result analysis now.
+
+##### Upgradable and Safe VM
+
+- Discuss on the research outcomes related with fault-tolerant system, safe VM and hot fixing.
