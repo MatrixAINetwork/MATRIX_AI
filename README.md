@@ -158,3 +158,5 @@
 - Discuss on the research outcomes related with fault-tolerant system, safe VM and hot fixing;
 
 - Complete the detailed design on fault-tolerance VMs against overflow vulnerabilities;
+
+- Complete the code merging of safe contract upgrade funtionality;
