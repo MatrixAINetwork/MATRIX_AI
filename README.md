@@ -155,4 +155,6 @@
 
 ##### Upgradable and Safe VM
 
-- Discuss on the research outcomes related with fault-tolerant system, safe VM and hot fixing.
+- Discuss on the research outcomes related with fault-tolerant system, safe VM and hot fixing;
+
+- Complete the detailed design on fault-tolerance VMs against overflow vulnerabilities;
