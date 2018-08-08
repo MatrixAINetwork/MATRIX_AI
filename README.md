@@ -160,3 +160,5 @@
 - Complete the detailed design on fault-tolerance VMs against overflow vulnerabilities;
 
 - Complete the code merging of safe contract upgrade funtionality;
+
+- Refine the classifications as well as definitions of vulnerabilities supported by fault-tolerance VMs.
