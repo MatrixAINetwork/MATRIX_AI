@@ -175,3 +175,10 @@
 - Confirmed the project goal and plan (period: now - the end of this year), as well as DAppro's product program;
 
 - Continued with the dev and debug work of contract template library; 
+
+
+
+##### Upgradable and Safe VM
+
+- Optimized the fault-tolerance prototype development against Reentrancy attacks;
+- Confirmed the project goal and plan (period: now - the end of this year), as well as MATRIX-VM product program.
