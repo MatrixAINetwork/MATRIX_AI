@@ -162,3 +162,12 @@
 - Complete the code merging of safe contract upgrade funtionality;
 
 - Refine the classifications as well as definitions of vulnerabilities supported by fault-tolerance VMs.
+
+
+## 13rd August - 17th August, 2018
+
+#### Automatic Generation of Contract
+
+- Discuss on the current outcome and progress of automatic generation;
+
+- Completed the frontend interactive pages of prototype sites and prepared demo cases;
