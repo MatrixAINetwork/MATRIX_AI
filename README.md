@@ -166,8 +166,12 @@
 
 ## 13rd August - 17th August, 2018
 
-#### Automatic Generation of Contract
+##### Automatic Generation of Contract
 
 - Discuss on the current outcome and progress of automatic generation;
 
 - Completed the frontend interactive pages of prototype sites and prepared demo cases;
+
+- Confirmed the project goal and plan (period: now - the end of this year), as well as DAppro's product program;
+
+- Continued with the dev and debug work of contract template library; 
