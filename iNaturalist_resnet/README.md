@@ -1,7 +1,10 @@
 ## iNaturalist Challenge(2018) with resnet
 
 ## Introduction
+
 This release focuses on AI based graphic classification. We train resnet(152/101/50 layers) for iNaturalist Challenge at FGVC 2018 with [tensorpack](https://github.com/ppwwyyxx/tensorpack#toc0), which is a training interface based on TensorFlow.
+
+Please note that we have utilised the open-source TensorFlow framework, but based on this we provided our unique algorithm to gain a better performance, which can be indicated by parameters and results.
 
 ## Result
 On inaturalist-2018 Dataset, we train resnet(50/101/152) respectively，the result is as follows:
